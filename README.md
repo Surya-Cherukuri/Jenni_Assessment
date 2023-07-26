@@ -1,11 +1,13 @@
-Real-Time Collaborative Text Editor Documentation
+# Real-Time Collaborative Text Editor Documentation
 Introduction
 A cutting-edge collaborative text editor built using React, Next.js, TypeScript, TailwindCSS, and the Tiptap library, enhanced with real-time synchronization powered by Y.js and @hocuspocus/provider. This project showcases the power of modern web technologies to offer users an immersive collaborative experience.
 
-Demo
+# Demo
 Experience the editor live: https://jenni-assessment.vercel.app/
 
-Requirements
+Please use a different browser's for testing, the name is stored in local storage.
+
+# Requirements
 node (14.x or later)
 npm or yarn
 editor: Visual Studio Code (recommended)
