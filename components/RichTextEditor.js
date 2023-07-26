@@ -20,7 +20,13 @@ const names = [
   'Diego Maradona',
   'David Beckham',
   'Sergio Ramos',
-  'Luka Modric'
+  'Luka Modric',
+  'Iker Casillas',
+  'Toni Kroos',
+  'Kylian Mbappe',
+  'Neymar',
+  'Karim Benzema',
+  'Erling Haaland'
 ]
 const getRandomElement = list => list[Math.floor(Math.random() * list.length)]
 const getRandomColor = () => getRandomElement(colors)
