@@ -41,7 +41,7 @@ const ydoc = new Y.Doc()
 const websocketProvider = new TiptapCollabProvider({
   appId: 'EOK0LJK4',
   name: 'Jenni',
-  token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2OTAzMzExMzUsIm5iZiI6MTY5MDMzMTEzNSwiZXhwIjoxNjkwNDE3NTM1LCJpc3MiOiJodHRwczovL2NvbGxhYi50aXB0YXAuZGV2IiwiYXVkIjoiaGVsbG9Ac293bWl0aC5kZXYifQ.xaRDgL00_viiHTo9jM-7VULdXkkBAtzjTtemm0DxCTc',
+  token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2OTA0OTAxNjYsIm5iZiI6MTY5MDQ5MDE2NiwiZXhwIjoxNjkwNTc2NTY2LCJpc3MiOiJodHRwczovL2NvbGxhYi50aXB0YXAuZGV2IiwiYXVkIjoiaGVsbG9Ac293bWl0aC5kZXYifQ.Ex0bxtFuj4laGd0KfrjlDnagsUJdVjX6MpICCsGlpnk',
   document: ydoc,
 })
 export default function RichTextEditor() {
